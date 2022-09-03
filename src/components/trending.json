@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "imgURL": "https://rukminim1.flixcart.com/image/312/312/xif0q/jacket/l/v/6/xl-mnt-7004-montrez-original-imagffv4bk5bkfpy-bb.jpeg?q=70",
+      "title": " Denim jacket",
+      "mrp": "2,499",
+      "rating": "335rating",
+      "discount": "72%off",
+      "sellingPrice": "₹699",
+      "star": 3.5
+    },
+    {
+      "id": 2,
+      "imgURL": "https://rukminim1.flixcart.com/image/580/696/knunf680/t-shirt/u/c/f/s-crp-nvr-viral-trend-original-imag2gy84dsejzax.jpeg?q=50",
+      "title": "printed women tshirt",
+      "mrp": "₹1980",
+      "rating": "672rating",
+      "discount": "48%off",
+      "sellingPrice": "₹980",
+      "star": 4.5
+    },
+    {
+      "id": 3,
+      "imgURL": "https://rukminim1.flixcart.com/image/580/696/kura1e80/dress/9/r/k/xs-1156-sheetal-associates-original-imag7ta7nrupjbzy.jpeg?q=50",
+      "title": "Women Dress",
+      "mrp": "₹1385",
+      "rating": "90rating",
+      "discount": "14%off",
+      "sellingPrice": "₹1243",
+      "star": 3.4
+    },
+    {
+      "id": 4,
+      "imgURL": "https://rukminim1.flixcart.com/image/580/696/xif0q/t-shirt/2/j/x/l-wmtssm4264-wrangler-original-imaghyeb2fzgzc6q.jpeg?q=50",
+      "title": "Mens neck T-shirt",
+      "mrp": "₹2000",
+      "rating": "458rating",
+      "discount": "50%off",
+      "sellingPrice": "₹1000",
+      "star": 3.5
+    },
+    {
+      "id": 5,
+      "imgURL": "https://rukminim1.flixcart.com/image/832/832/k6fd47k0/shirt/e/u/v/l-c301-dustygreen-dennis-lingo-original-imafzvvr7q8zn9kh.jpeg?q=70",
+      "title": "Mens Formal shirts",
+      "mrp": "₹ 3000",
+      "rating": "978rating",
+      "discount": "50%off",
+      "sellingPrice": "₹1500",
+      "star": 4.0
+    },
+    {
+      "id": 6,
+      "imgURL": "https://rukminim1.flixcart.com/image/580/696/kx7vc7k0/dress/b/h/t/-original-imag9qayyhrgynhr.jpeg?q=50",
+      "title": "Women Pink Dress",
+      "mrp": "₹2449",
+      "rating": "1340rating",
+      "discount": "35%off",
+      "sellingPrice": "₹ 4495",
+      "star": 4.1
+    },
+    {
+      "id": 7,
+      "imgURL": "https://rukminim1.flixcart.com/image/580/696/jzzvs7k0/shirt/h/a/h/l-c301-dustypink-dennis-lingo-original-imafjvx7b9jguhdv.jpeg?q=50",
+      "title": "Mens formal shirt",
+      "mrp": "₹1999.84",
+      "rating": "2361rating",
+      "discount": "50%off",
+      "sellingPrice": "₹3999",
+      "star": 4.4
+    }
+  ]
+  
