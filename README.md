@@ -1,4 +1,4 @@
-Deploy Link:--https://ss-creation.netlify.app/
+Deploy Link:--https://earnest-liger-a896dc.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/99814514/188284517-e0bf4882-0158-48af-9283-5e490bc9cbd2.png)
 
